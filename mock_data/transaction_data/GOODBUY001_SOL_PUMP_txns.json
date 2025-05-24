@@ -1,0 +1,74 @@
+[
+  {
+    "transactionId": "TXN_GB001_A",
+    "timestamp": "2024-07-30T09:50:15Z",
+    "type": "BUY",
+    "walletAddress": "SmallBuyerWalletAddr001",
+    "amountToken": 500000.0,
+    "amountUSD": 44.00,
+    "pricePerTokenUSD": 0.000088
+  },
+  {
+    "transactionId": "TXN_GB001_B",
+    "timestamp": "2024-07-30T09:52:30Z",
+    "type": "BUY",
+    "walletAddress": "WhaleAlphaSoLWalletADDRESS1",
+    "amountToken": 10000000.0,
+    "amountUSD": 910.00,
+    "pricePerTokenUSD": 0.000091
+  },
+  {
+    "transactionId": "TXN_GB001_C",
+    "timestamp": "2024-07-30T09:53:05Z",
+    "type": "SELL",
+    "walletAddress": "EarlySniperWalletAddr002",
+    "amountToken": 2000000.0,
+    "amountUSD": 184.00,
+    "pricePerTokenUSD": 0.000092
+  },
+  {
+    "transactionId": "TXN_GB001_D",
+    "timestamp": "2024-07-30T09:55:00Z",
+    "type": "BUY",
+    "walletAddress": "WhaleBetaSoLWalletADDRESS2",
+    "amountToken": 8000000.0,
+    "amountUSD": 720.00,
+    "pricePerTokenUSD": 0.000090
+  },
+  {
+    "transactionId": "TXN_GB001_E",
+    "timestamp": "2024-07-30T09:56:10Z",
+    "type": "BUY",
+    "walletAddress": "MediumBuyerWalletAddr003",
+    "amountToken": 1500000.0,
+    "amountUSD": 136.50,
+    "pricePerTokenUSD": 0.000091
+  },
+  {
+    "transactionId": "TXN_GB001_F",
+    "timestamp": "2024-07-30T09:57:45Z",
+    "type": "SELL",
+    "walletAddress": "WhaleAlphaSoLWalletADDRESS1",
+    "amountToken": 3000000.0,
+    "amountUSD": 273.00,
+    "pricePerTokenUSD": 0.000091
+  },
+  {
+    "transactionId": "TXN_GB001_G",
+    "timestamp": "2024-07-30T09:58:30Z",
+    "type": "BUY",
+    "walletAddress": "WhaleGammaSoLWalletADDRESS3",
+    "amountToken": 12000000.0,
+    "amountUSD": 1080.00,
+    "pricePerTokenUSD": 0.000090
+  },
+  {
+    "transactionId": "TXN_GB001_H",
+    "timestamp": "2024-07-30T09:59:50Z",
+    "type": "SELL",
+    "walletAddress": "SmallBuyerWalletAddr001",
+    "amountToken": 500000.0,
+    "amountUSD": 45.00,
+    "pricePerTokenUSD": 0.000090
+  }
+]
