@@ -1,0 +1,5 @@
+WhaleAlphaSoLWalletADDRESS1
+WhaleBetaSoLWalletADDRESS2
+WhaleGammaSoLWalletADDRESS3
+WhaleDeltaSoLWalletADDRESS4
+WhaleEpsilonSoLWalletADDRESS5
